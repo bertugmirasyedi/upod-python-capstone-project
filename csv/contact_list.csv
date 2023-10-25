@@ -1,0 +1,5 @@
+ID,Name,Surname,Phone Number,Email,VIP,Date Created,Date Updated
+1,Bertug,Mirasyedi,111,bertug@bertug.com,True,15/10/2023 15:24:24,15/10/2023 15:24:24
+2,Jane,Doe,333,jane.doe@email.com,False,15/10/2023 15:25:16,15/10/2023 15:26:15
+3,John,Doe,666,john@doe.com,False,18/10/2023 22:47:34,18/10/2023 22:47:34
+4,Michael,Wembley,1234,m.w@email.com,False,25/10/2023 01:03:17,25/10/2023 01:06:41
